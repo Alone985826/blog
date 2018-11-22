@@ -20,7 +20,7 @@ injectGlobal`
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="Beta Go"
+      title="Alone"
       meta={[
         { name: 'description', content: 'blog' },
         { name: 'keywords', content: 'blog, front end, read' },

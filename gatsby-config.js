@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "WanTong' Blog",
-    author: 'gouwantong@live.com<WanTong>',
+    title: "Alone' Blog",
+    author: '18093629817@163.com<Alone>',
     description: 'life long learning',
-    siteUrl: 'https://blog.gouwantong.com',
+    siteUrl: 'wujuan.space',
   },
   plugins: [
     {
@@ -39,8 +39,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'wantong home',
-        short_name: 'wantong',
+        name: 'Alone home',
+        short_name: 'Alone',
         start_url: '/',
         background_color: '#666666',
         theme_color: '#666666',

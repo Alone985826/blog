@@ -29,10 +29,10 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          Beta Go
+          Alone
         </Link>
         <a
-          href="https://github.com/BetaGo"
+          href="https://github.com/Alone985826"
           style={{
             color: 'white',
             textDecoration: 'none',
