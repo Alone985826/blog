@@ -23,19 +23,19 @@ const Marked = styled.div`
   }
 
   & h1 {
-    color: #ec625f;
+    color: #62ec5f;
     margin: 0.7em 0;
   }
   & h2 {
-    color: #ec625f;
+    color: #62ec5f;
     margin: 1em 0 0.7em;
   }
   & h3 {
-    color: #ec625f;
+    color: #62ec5f;
     margin: 1em 0 0.7em;
   }
   & h4 {
-    color: #ec625f;
+    color: #62ec5f;
     margin: 1em 0 0.7em;
   }
   & p,
@@ -56,7 +56,7 @@ const Marked = styled.div`
       padding: 0 8px;
       color: rgba(255, 255, 255, 0.5);
       &:hover {
-        color: #ec625f;
+        color: #62ec5f;
       }
       & svg {
         width: 0.55em;
